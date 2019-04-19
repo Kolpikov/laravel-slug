@@ -2,6 +2,10 @@
 
 use Illuminate\Support\ServiceProvider;
 
+/**
+ * Class SlugServiceProvider
+ * @package Kolpikov\LaravelSlug
+ */
 class SlugServiceProvider extends ServiceProvider
 {
     /**

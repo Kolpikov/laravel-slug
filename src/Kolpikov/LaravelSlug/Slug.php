@@ -1,5 +1,9 @@
 <?php namespace Kolpikov\LaravelSlug;
 
+/**
+ * Class Slug
+ * @package Kolpikov\LaravelSlug
+ */
 class Slug
 {
     /**
